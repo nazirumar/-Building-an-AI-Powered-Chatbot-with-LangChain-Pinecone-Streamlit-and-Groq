@@ -1,0 +1,13 @@
+sentence-transformers==2.2.2
+langchain
+langchain_huggingface
+streamlit
+pypdf
+python-dotenv
+pinecone
+langchain-pinecone
+langchain_community
+langchain_groq
+langchain_experimental
+
+-e .
